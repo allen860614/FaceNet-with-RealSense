@@ -1,4 +1,4 @@
-# real-time-deep-face-recogniton
+# FaceNet with RealSense
 
 Real-time face recognition program using Google's facenet.
 * [youtube video](https://www.youtube.com/watch?v=T6czH6DLhC4)
