@@ -7,8 +7,8 @@ Real-time face recognition program using Google's facenet.
 * I refer to the facenet repository of [davidsandberg](https://github.com/davidsandberg/facenet).
 * also, [shanren7](https://github.com/shanren7/real_time_face_recognition) repository was a great help in implementing.
 ## Dependencies
-* Tensorflow 1.2.1 - gpu
-* Python 3.5
+* Tensorflow 1.9.0 - gpu
+* Python 3.6.4
 * Same as [requirement.txt](https://github.com/davidsandberg/facenet/blob/master/requirements.txt) in [davidsandberg](https://github.com/davidsandberg/facenet) repository.
 ## Pre-trained models
 * Inception_ResNet_v1 CASIA-WebFace-> [20170511-185253](https://drive.google.com/file/d/0B5MzpY9kBtDVOTVnU3NIaUdySFE/edit)
